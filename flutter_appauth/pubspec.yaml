@@ -11,7 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_appauth_platform_interface:
-    path: flutter_appauth_platform_interface
+   git:
+      url: https://github.com/josephbreihan/flutter_appauth.git
+      ref: qhr-endsession
+      path: flutter_appauth_platform_interface
 
 
 flutter:
