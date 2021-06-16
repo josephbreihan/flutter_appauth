@@ -4,8 +4,8 @@ version: 3.0.0
 homepage: https://github.com/MaikuB/flutter_appauth/tree/master/flutter_appauth_platform_interface
 
 environment:
-  sdk: '>=2.12.0-0 <3.0.0'
-  flutter: ">=1.10.0"
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: 
 
 dependencies:
   flutter:
@@ -15,4 +15,4 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: ^4.1.1
+  mockito: 
